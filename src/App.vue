@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    
+    <Horas/>
   </div>
 </template>
 
